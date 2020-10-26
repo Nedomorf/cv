@@ -151,6 +151,6 @@ I passed the courses of Dmitry Kuzedybin, was studying at the Itransition compan
 I have an experience in the translating of technical articles.<br>
 Now I have the intermediate level (B1).
 ## Other languages
-Russian - native
-Belarusian - native
+Russian - native<br>
+Belarusian - native<br>
 Polish - beginner
